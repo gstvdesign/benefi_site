@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Chivo";
+    src: url("#{$roboto-font-path}Chivo-Regular.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-Regular.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-Regular.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-Regular.ttf") format("truetype");
+        font-weight: normal;
+}
+
+@font-face {
+    font-family: "Chivo";
+    src: local(Chivo Italic),
+        url("#{$roboto-font-path}Chivo-Italic.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-Italic.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-Italic.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-Italic.ttf") format("truetype");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Chivo";
+    src: local(Chivo Bold),
+        url("#{$roboto-font-path}Chivo-Bold.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-Bold.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-Bold.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-Bold.ttf") format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Chivo";
+    src: url("#{$roboto-font-path}Chivo-BoldItalic.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-BoldItalic.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-BoldItalic.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Chivo";
+    src: url("#{$roboto-font-path}Chivo-Light.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-Light.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-Light.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-Light.ttf") format("truetype");
+    font-weight: light;
+}
+
+@font-face {
+    font-family: "Chivo";
+    src: url("#{$roboto-font-path}Chivo-LightItalic.eot") format("eot"),
+        url("#{$roboto-font-path}Chivo-LightItalic.woff") format("woff"),
+        url("#{$roboto-font-path}Chivo-LightItalic.woff2") format("woff2"),
+        url("#{$roboto-font-path}Chivo-LightItalic.ttf") format("truetype");
+    font-weight: light;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Unna";
+    src:
+        local(Unna),
+        url("#{$roboto-font-path}Unna-bold.eot") format("eot"),
+        url("#{$roboto-font-path}Unna-bold.woff") format("woff"),
+        url("#{$roboto-font-path}Unna-bold.woff2") format("woff2"),
+        url("#{$roboto-font-path}Unna-bold.ttf") format("truetype");
+    font-weight: bold;
+}

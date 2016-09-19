@@ -1,0 +1,24 @@
+<div class="navbar-fixed">
+<nav class="pink white-text z-depth-0">
+    <ul id="slide-out" class="side-nav">
+        <li><a href="{{ site.baseurl }}/" class="blue-text">Home</a></li>
+        {% for page in site.pages %}
+            {% if page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}" >{{ page.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+        
+    </ul>
+    <div class="container container-large">
+    <a class="brand-logo" href="{{ site.baseurl }}/" class="blue-text"><img src="{{ site.logo }}" alt="Instituto Benefi"></a>
+    <ul class="right hide-on-med-and-down">
+        {% for page in site.pages %}
+            {% if page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    
+    </div>
+</nav>
+</div>

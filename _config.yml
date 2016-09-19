@@ -1,0 +1,33 @@
+# Site settings
+title: Instituto Benefi
+description: > # this means to ignore newlines until "baseurl:"
+    Sites que geram fidelidade, clientes que querem comprar seus produtos.
+url: "http://institutobenefi.com"
+baseurl: ""
+logo: /assets/img/Benefi_logo16.png
+paginate: 5
+paginate_path: "/page:num/"
+owner:
+    email: gustavo@institutobenefi.com
+    facebook:
+        show: true
+        name: "Gustavo Nering"
+        url: "https://www.facebook.com/gustavo.nering"
+    github:
+        show: false
+        username: ""
+    twitter:
+        show: true
+        username: "gustavonering"
+    disqus:
+        show: false
+        username: ""
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: "/article/:title"
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
