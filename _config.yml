@@ -25,9 +25,22 @@ owner:
 sass:
     sass_dir: _sass
     style: compressed
-permalink: "/article/:title"
+permalink: "posts/:title"
 markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+markdown: rdiscount
+pygments: rouge
+auto: true
+
+ftp_host: 'institutobenefi.com'
+ftp_dir: '/public_html'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'instiev'     # default read from stdin
+ftp_password: 'm8MmH0G^?2@3' # default read from stdin
+ftp_secure: true              # default false

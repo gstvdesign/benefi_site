@@ -6,170 +6,76 @@
 </description>
     <link>http://institutobenefi.com/</link>
     <atom:link href="http://institutobenefi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 14:53:21 -0300</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 14:53:21 -0300</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 17:38:39 -0300</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 17:38:39 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Testing GitHub Flavored Markdown</title>
-        <description>&lt;p&gt;Jekyll is simple but powerfull, and can hosted easely on github.
-This is cheat codes for creating beautiful article with GFM (Github Flavored Markdown).
-For more information about GFM, &lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+        <title>Esse design focado em portfolios é um problema…</title>
+        <description>&lt;p&gt;Esse texto precisava ser mais longo do que meu tempo permite escrever. Um texto raso que não chega nem a mil palavras não dá conta dessa problemática. Mas é que tenho agora.&lt;/p&gt;
 
-&lt;h5 id=&quot;links&quot;&gt;# Links&lt;/h5&gt;
+&lt;p&gt;Se, e somente se, design é algo meramente visual, nós precisamos de mais portfolio. Focar em portfolios é um problema, na verdade. Se design é mais do que o visual e o estético, portfolio não mostra nada. Quer dizer, mostra que o cara sabe de algum software, consegue fazer uma logo ou um revista, mas não mostra que o candidato em questão sabe design. (E não estou falando de grids, de formas de construções visuais, ou outros malabarismos visuais que enchem Behance a fora. Estou falando de design que faz a diferença, que soluciona problemas.)&lt;/p&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/design-focado-portfolios/img.jpg&quot; alt=&quot;&quot; class=&quot;responsive-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/riefachan&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A gente gosta da Apple. Usa ela como discurso de venda pra convencer nossos clientes a investir em design. Fala pra nossos clientes que eles podem ser como Steve Jobs, basta transformar sua empresa em uma empresa centrada em design. Mas na prática não é isso que acontece.&lt;/p&gt;
 
-&lt;p&gt;Return :&lt;/p&gt;
+&lt;p&gt;O que acontece é uma behancenização ou dribblezação do design. Um design focado em imagem, em produtos visuais que são só bonitos, mas que não necessariamente resolvem problema nenhum, nem ajuda as pessoas.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[click here](https://github.com/riefachan)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;Na verdade só cria coisas inúteis. Saber html ou Indesign é detalhe. Desenhar um logotipo é só uma peça do quebra cabeça. Entender de cor, composição e harmonia é básico. Elementar e esperado na verdade. Criar coisas meramente bonitas é jogar o que sabemos de design no lixo.&lt;/p&gt;
 
-&lt;h5 id=&quot;italic&quot;&gt;# italic&lt;/h5&gt;
+&lt;p&gt;E é nisso que um portfolio é centrado: em estética, beleza. Não em soluções ou em construção.&lt;/p&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
+&lt;p&gt;A gente gosta de defender que o designer deve ter um papel mais relevante nas empresas. Que o designer tem que estar na diretoria das empresas e não no departamento de marketing ou de publicidade. Que design pode ajudar a vender mais porque ele se preocupa com o cliente, com a pessoa, com o ser humano (apesar de que, &lt;a href=&quot;https://ideiasricardomartins.wordpress.com/2015/09/12/resultados/&quot;&gt;como defende o Ricardo Martins&lt;/a&gt;, design é mais sobre construção do que mero vender mais) mas fica criando coisas brilhantes que insultam a inteligência das pessoas.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;this is italic !&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Designers, escritórios e agências se apresentam aos clientes como os portugueses que chegaram no Brasil: mostrando um espelho pra encantar os índios. No meio do processo tentam enfiar um pouco de design de verdade enquanto o cliente não está vendo porque acham que o cliente não está preparado pra isso ou não quer pagar por isso (talvez a gente foque no cliente errado, mesmo).&lt;/p&gt;
 
-&lt;p&gt;Return :&lt;/p&gt;
+&lt;p&gt;Uma empresa que usa somente portfolios pra escolher seus funcionários não seleciona designers, seleciona técnicos: gente que aperta parafuso com um pouco mais de inteligência que o apertador de parafuso comum. É um produto, tem demanda, tem clientela, mas não é design. Ou melhor, é uma fração bem pequena do design.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*this is italic !*
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;Se o design foi feito para além daquilo que está na sua frente,além do visual e do estético — um design que traz soluções reais e relevantes para problemas de verdade —, não é um portfolio que vai mostrar isso pras pessoas. Não é uma conta no behance que o novo designer precisa. É um discurso, uma narrativa (que pode ser traduzida visualmente), mas que precisa ir além do visual, além do papel ou da tela e solucionar problemas reais. É uma filosofia que precisa encantar clientes, engajar usuários e se conectar com as pessoas.&lt;/p&gt;
 
-&lt;h5 id=&quot;bold&quot;&gt;# bold&lt;/h5&gt;
+&lt;p&gt;E, por favor amigo, não me venha com a desculpa do mercado. O mercado precisa disso. Taí a Apple, AirBnb, Netflix, Twitter, Google (e a lista vai longe) trabalhando em design e obtendo resultados porque construiram plataformas relevantes para as pessoas que precisam dos serviços deles.&lt;/p&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
+&lt;p&gt;Design é mais que criar produtos visuais. É muito mais que um portfolio dá conta de mostrar. Design é uma forma de pensar que busca soluções centrados na pessoa, no ser humano a quem o design serve. E pra mostrar isso a gente precisa ir muito além de portfolios e currículos.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;this is bold !&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Return :&lt;/p&gt;
+&lt;h2 id=&quot;algumas-reaes-relevantes&quot;&gt;Algumas reações relevantes&lt;/h2&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;**this is bold !**
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@erickmazer&quot;&gt;Erick Mazer Yamashita&lt;/a&gt; chama atenção para foco em produtos ou foco no cliente: Design é visto mais estrategicamente dentro de companhias que criam produtos.&lt;/p&gt;
 
-&lt;h5 id=&quot;list&quot;&gt;# List&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@felipeguimares&quot;&gt;Felipe Guimarães:&lt;/a&gt; Falta a consciência de que para se ter resultados consideráveis e fazer a diferença na vida das pessoas é preciso investimento e trabalho constante.&lt;/p&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/ftofani?fref=ufi&quot;&gt;Felipe Tofani&lt;/a&gt; dá a letra: Se você vê um problema nisso, faça diferente.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;Item 2&lt;/li&gt;
-  &lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/felipe.ffmm?fref=ufi&quot;&gt;Felipe Medeiros&lt;/a&gt; aponta que portfolio é sintoma e não causa: Acho que o problema não são os portfolios em si, e sim como são utilizados.&lt;/p&gt;
 
-&lt;p&gt;Return :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/gabriel.saccol?fref=ufi&quot;&gt;Gabriel Saccol:&lt;/a&gt; (…) mas se tu for pensar o cliente sempre vai pelo visual, (…) quantos param pra ler toda a descrição do projeto? Eu sou um que gosto de ver as etapas do projeto (…), o cliente sempre vai querer ver o resultado final.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Item 1
-* Item 2
-* Item 3
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/noyukihara?fref=ufi&quot;&gt;André Tokunaga:&lt;/a&gt; (…)há uma dribbblização enorme que apenas empobrece (…) toda a potência de geração de mudanças que um Designer representa.&lt;/p&gt;
 
-&lt;h5 id=&quot;code&quot;&gt;# code&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/willzithu?fref=ufi&quot;&gt;Will Fernandes:&lt;/a&gt; [O cliente] não é burro por não querer ler o seu projeto, os conceitos e blá blá blá (…). Se [o designer] não souber da importância disso, estamos vendendo design de forma totalmente equivocada. ¶ Muitas vezes dizemos que o design vai mudar o mundo, mas se for pra continuar só na estética sem mudarmos nossa própria postura e discurso, creio que não vá sair disso e nós nos manteremos apenas no patamar artístico.&lt;/p&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/bhpadilha?fref=ufi&quot;&gt;Bruno Padilha&lt;/a&gt; me critica com razão: Esse dualismo está um pouco extremo…&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function hello(){
-	return &quot;Hello World!&quot;;	
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/santiagowillian?fref=ufi&quot;&gt;Willian Santiago&lt;/a&gt; é mais pessimista que eu: (…) percebo que o design caminha pra um lado mais informal, e bem menos didático. Tem muito conceito que já está se perdendo/transformando, por exemplo: “ o azul clarinho é uma cor que acalma”. Tem muita defesa de projeto com esses conceitos bobos que eu acho que não agregam em nada. E na nossa área, quase sempre o “visual” sempre vai prevalecer.&lt;/p&gt;
 
-&lt;p&gt;Return :&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/viniiciusvieira?fref=ufi&quot;&gt;Vinícius Vieira:&lt;/a&gt; Quando estou elaborando um trabalho para meu portfolio ou para o Behance, meu principal objetivo sempre é ~e sempre será~ mostrar o processo. O caminho que trilhei para chegar em determinada solução é a prioridade. Mostrando o processo, eu espero que as pessoas entendam como eu penso enquanto designer, enquanto pessoa e enquanto profissional.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;```
-function hello(){
-	return &quot;Hello World!&quot;;	
-}
-```&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/dgusmaosilveira?fref=ufi&quot;&gt;Danilo Gusmão Silveira:&lt;/a&gt; (…) O problema vem bem antes disso. É do estudante que sonha somente com a peça linda no seu portfólio e esquece que existe um trabalho para se fazer, (…) um problema de design para solucionar. O real problema é o designer pensar somente em como o projeto vai ficar bonito na capa do Behance ou como seu portfólio vai ficar com a bandeira do cliente nele. Como ele só tem essa preocupação o seu principal foco é o visual, é onde ele dedica o seu esforço e esquece outras etapas de estudo (…) ¶ Claro que precisamos nos preocupar com o nosso portfólio, mas isso é o resultado de um bom trabalho de design que você fez pensado para cada cliente.&lt;/p&gt;
 
-&lt;h5 id=&quot;code-inline&quot;&gt;# code (inline)&lt;/h5&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Example :&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;echo &quot;Hello World!&quot;;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Return :&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`echo &quot;Hello World!&quot;;`
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h5 id=&quot;code-with-highlight&quot;&gt;# code (with highlight)&lt;/h5&gt;
-
-&lt;p&gt;Example :&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;	
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Return :&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% highlight javascript %}
-function hello(){
-	return &quot;Hello World!&quot;;	
-}
-{% endhighlight %}&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/@gustavonering/esse-design-focado-em-portfolios-%C3%A9-um-problema-66ed791a31f1#.yup9r6kth&quot;&gt;Esse texto foi originalmente postado&lt;/a&gt; na &lt;a href=&quot;https://medium.com/@gustavonering&quot;&gt;minha conta do Medium&lt;/a&gt; em 2015. Os comentários vem de lá de alguns grupos de Facebook.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Oct 2015 16:37:30 -0300</pubDate>
-        <link>http://institutobenefi.com/article/testing-gitHub-flavored-markdown</link>
-        <guid isPermaLink="true">http://institutobenefi.com/article/testing-gitHub-flavored-markdown</guid>
+        <pubDate>Mon, 19 Sep 2016 00:00:00 -0300</pubDate>
+        <link>http://institutobenefi.com/posts/design-focado-portfolio/</link>
+        <guid isPermaLink="true">http://institutobenefi.com/posts/design-focado-portfolio/</guid>
         
         
-        <category>jekyll</category>
+        <category>portfolio</category>
         
-      </item>
-    
-      <item>
-        <title>Pain itself</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Immo videri fortasse. Quid iudicant sensus? Duo Reges: constructio interrete. A quibus propter discendi cupiditatem videmus ultimas terras esse peragratas. Non est ista, inquam, Piso, magna dissensio.&lt;/p&gt;
-
-&lt;p&gt;Facile est hoc cernere in primis puerorum aetatulis. Longum est enim ad omnia respondere, quae a te dicta sunt. Aliud igitur esse censet gaudere, aliud non dolere. Nam si amitti vita beata potest, beata esse non potest. Facillimum id quidem est, inquam.&lt;/p&gt;
-
-&lt;p&gt;Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum. Quid igitur, inquit, eos responsuros putas? Sed ne, dum huic obsequor, vobis molestus sim. An hoc usque quaque, aliter in vita? Negat enim summo bono afferre incrementum diem. Quid autem habent admirationis, cum prope accesseris? Quare attende, quaeso.&lt;/p&gt;
-
-&lt;p&gt;Nam, ut sint illa vendibiliora, haec uberiora certe sunt. Minime vero istorum quidem, inquit. Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quamquam id quidem, infinitum est in hac urbe;&lt;/p&gt;
-
-&lt;p&gt;Multoque hoc melius nos veriusque quam Stoici. Illi enim inter se dissentiunt. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere. Ut proverbia non nulla veriora sint quam vestra dogmata. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Oct 2015 21:49:37 -0300</pubDate>
-        <link>http://institutobenefi.com/article/pain-itself</link>
-        <guid isPermaLink="true">http://institutobenefi.com/article/pain-itself</guid>
-        
-        
-        <category>jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 08 Oct 2015 21:49:37 -0300</pubDate>
-        <link>http://institutobenefi.com/article/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://institutobenefi.com/article/welcome-to-jekyll</guid>
-        
-        
-        <category>jekyll</category>
+        <category>designers</category>
         
       </item>
     

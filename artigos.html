@@ -1,33 +1,25 @@
 ---
 layout: default
-permalink: /2/
+permalink: /posts/
+title: Artigos
 ---
 <div class="container">
     <div class="group-article">
         <div class="row no-margin">
             <div class="col s12">
-                <h2 class="blue-text center-align thin">Recent Post</h2>
+                <h2 class="blue-text center-align thin">Artigos</h2>
                 <div class="divider"></div>
             </div>
         </div>
         
-        {% for post in paginator.posts %}
-        <div class="row no-margin">
-            <a class="waves-effect" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="col s12">
-                    <div class="list-article">
-                        <h4 class="blue-text thin">{{ post.title }}</h4>
-                        <p class="grey-text text-darken-1 light">Published at {{ post.date | date: "%B %-d, %Y" }}.</p>
-                        <article class="grey-text text-darken-2 post-content on-index light">
-                                {{ post.excerpt | strip_html }}. . 
-                        </article>
-                        <br/>
-                    </div>
-                    <div class="divider dashed"></div>
-                </div>
-            </a>
-        </div>
-        {% endfor %}
+        <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      </li>
+    {% endfor %}
 
     </div>
 

@@ -1,12 +1,14 @@
 ---
 layout: page_subs
 permalink: /portfolio/
-title: Portófolios que trazem confiança
+title: Portfólios que trazem confiança
 ---
 
 Portfólios são complicados.
 
 Pra gente que é designer, ele é nossa ferramenta de venda mais importante. Em termos de design, nosso modelo de negócio tem como ponto de partida o maldito portfólio.
+
+![](../assets/img/portfolio_pg/img.png){: .responsive-img}
 
 Mas deixa eu te confessar uma coisa.
 
