@@ -26,14 +26,12 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: "posts/:title"
-markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-paginate
 markdown: rdiscount
-pygments: rouge
-auto: true
+markdown: kramdown
 
 ftp_host: 'institutobenefi.com'
 ftp_dir: '/public_html'
