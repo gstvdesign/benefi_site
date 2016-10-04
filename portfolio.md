@@ -1,5 +1,5 @@
 ---
-layout: page_subs
+layout: page_subs_designers
 permalink: /portfolio/
 title: Portfólios que trazem confiança
 ---

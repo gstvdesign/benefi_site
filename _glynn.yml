@@ -2,12 +2,12 @@ markdown: rdiscount
 pygments: true
 auto: true
 
-ftp_host: 'institutobenefi.com'
+ftp_host: 'ftpes://institutobenefi.com'
 ftp_dir: '/public_html'
 ftp_passive: false
 
 # optional
 ftp_port: 21                  # default 21
-ftp_username: 'instiev'     # default read from stdin
+ftp_username: 'instieiv'     # default read from stdin
 ftp_password: 'm8MmH0G^?2@3' # default read from stdin
 ftp_secure: true              # default false
