@@ -4,29 +4,30 @@ layout: page_subs
 permalink: /quem-somos
 ---
 
-![](../assets/img/gstv.png){: .center-align}
+O Instituto Benefi se baseia em três pilares:
 
-O Instituto Benefi é formado por mim, Gustavo Nering. Por enquanto sou eu quem faço tudo, mas a ideia é expandir pra conseguir fazer projetos maiores e melhores.
+1. Preguiça;
+2. Projeto;
+3. Ajuda.
 
-O Instituto surgiu da minha vontade de ajudar as pessoas. Eu sou designer de formação e profissão, mas eu tinha um problema pra conseguir vender meu peixe.
+# Tipo bom de preguiça
 
-Quando a necessidade aperta a gente tem duas opções: chorar na rampa esbravejando por que o mundo não me entende ou buscar uma solução até resolver o problema. Eu fui pelo segundo caminho (depois de tentar o primeiro). Isso me fez estudar marketing, vendas, relação com o cliente, como e porque as pessoas compram e, por fim, como aplicar isso tudo num site.
+Existem dois tipos de preguiçoso: 
 
----
+1. O preguiçoso clássico, aquele que não quer fazer nada;
+2. E o preguiçoso que quer fazer o máximo com o minímo. 
 
-# Tipo bom de preguiçoso
+O segundo tipo consegue prever onde estão os melhores resultados e irá construir ferramentas que trabalhem pra ele no futuro. Por incrível que pareça, é a preguiça que move esse cara a fazer o que é mais difícil agora pra trabalhar menos no futuro.
 
-Existem dois tipos de preguiçoso. 
-
-O preguiçoso clássico é aquele que não quer fazer nada. O preguiçoso menos comum é aquele que quer fazer o máximo com o minímo. Esse tipo consegue prever onde estão os melhores resultados e irá construir ferramentas que trabalhem pra ele no futuro. Eu sou esse cara.
+Aqui no Benefi a gente preserva esse tipo de preguiça: trabalhar mais agora pra fazer menos depois.
 
 # Projetar mais
 
-Pra eu exercer minha preguiça eu tenho que projetar as coisas antes colocá-las em prática.
+Pra exercer nossa preguiça a gente projetar antes de construir.
 
-O mais importante é se a coisa toda funciona. Em termos de site, o importante é que ele traga clientes ou que torne a marca mais conhecida ou que os clientes se interessem pelos produtos da marca em questão.
+O mais importante é se a coisa toda funciona. Em termos de um site, o importante é que ele traga clientes ou que torne a marca mais conhecida ou que os clientes se interessem pelos produtos da marca em questão.
 
-Pra chegar lá, eu gasto um tempo pesquisando, projetando, desenhando pra daí construir.
+Pra alcançar esses objetivos, a gente gasta um bom tempo pesquisando, projetando, desenhando. Só em cima desses resultados que dá pra construir alguma coisa.
 
 # Nascido pra ajudar
 
@@ -34,9 +35,10 @@ O Instituto Benefi surgiu pra ajudar outros negócios a crescerem através da in
 
 Nossa ajuda as vezes é com algum conteúdo que você mesmo pode colocar em prática.
 
-Outra vez é contratando algum de nossos serviços: seja pra construir ou manter um site, ou pra criar alguma ferramenta de fidelidade que fará com que seus clientes tenham prazer em fazer negócios com você e espalhem sua marca sempre que possível.
+Outra vez é contratando algum de nossos serviços: seja pra construir ou manter um site, ou pra criar alguma ferramenta de fidelidade que fará com que seus clientes tenham prazer em fazer negócios com você.
+
 
 Se isso tudo soa interessante, tem duas coisas que você pode fazer:
 
-1. Entra em contato com a gente clicando [aqui]().
-2. Ou assina a nossa lista de email sobre como criar valor pro seu negócio.
+1. Entrar em contato com a gente clicando [aqui.](mailto:gustavo@institutobenefi.com)
+2. Ou assinar a nossa lista de email sobre como criar valor pro seu negócio colocando seu nome e email no formulário abaixo.

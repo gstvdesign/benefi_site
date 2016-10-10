@@ -105,3 +105,22 @@ footer.page-footer {
   line-height: 1.5;
   letter-spacing: -0.003em;
  }
+.fundo{
+  background-image: url(/assets/img/fundo.jpg);
+  -webkit-background-size: cover;
+  background-size: cover; 
+}    
+.large {
+  font-size: 1.64rem;
+  font-weight: bold;
+}
+.row li{
+  list-style-type: square;
+  list-style-position: inside;
+}
+.row ul{
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+.btn{font-weight: bold;}
