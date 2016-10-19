@@ -1,7 +1,7 @@
 # Site settings
 title: Instituto Benefi
 description: > # this means to ignore newlines until "baseurl:"
-    Sites que geram fidelidade, clientes que querem comprar seus produtos.
+    Sites que geram fidelidade, pessoas que querem ajudar sua organização.
 url: "http://institutobenefi.com"
 baseurl: ""
 logo: /assets/img/Benefi_logo16.png
