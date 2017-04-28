@@ -36,7 +36,11 @@ title: Artigos
                 {{ post.date | date: "de %Y" }}</span>
 
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+        <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Continue lendo…</a></p>
       </li>
+      <div class="divider"></div>
+      <div class="section"></div>
     {% endfor %}
 
     </div>

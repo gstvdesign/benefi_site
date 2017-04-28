@@ -20,8 +20,8 @@ owner:
         show: true
         username: "gustavonering"
     disqus:
-        show: false
-        username: ""
+        show: true
+        username: "benefi"
 sass:
     sass_dir: _sass
     style: compressed

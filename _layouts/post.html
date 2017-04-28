@@ -7,14 +7,12 @@ layout: default
 {% assign minutes = 1 %}
 {% endif %}
 
-<div class="card z-depth-0 no-margin">
-<div class="container">
 <div class="section">
     <div class="row">
-        <div class="col s12">
-            <div class="card-content">
-                <div class="card-title center-align"><h2 class="thin blue-text">{{ page.title }}</h2></div>
-                <h4 class="center-align grey-text text-darken-1 thin">Publicado em {% assign m = page.date | date: "%-m" %} 
+        <div class="col s12 m10 offset-m1 l8 offset-l2">
+
+                <h4 class="blue-text center">{{ page.title }}</h4>
+                <h5 class="center-align grey-text text-darken-1 ">Publicado em {% assign m = page.date | date: "%-m" %} 
                 {{ page.date | date: "%-d de" }}
                 {% case m %}
                   {% when '1' %}Janeiro
@@ -30,14 +28,14 @@ layout: default
                   {% when '11' %}Novembro
                   {% when '12' %}Dezembro
                 {% endcase %} 
-                {{ page.date | date: "de %Y" }}</h4>
-                <h5 class="center-align grey-text text-darken-1 thin">
+                {{ page.date | date: "de %Y" }}</h5>
+                <p class="center-align grey-text text-darken-1 thin">
                     {% if page.minutes %}
                     Leitura de {{ page.minutes }} minutos
                     {% else %}
                     Leitura de {{ minutes }} minutos
                     {% endif %}
-                </h5>
+                </p>
                 <br/>
                 <div class="divider"></div>
                 <article class="post-categories center-align">
@@ -49,9 +47,7 @@ layout: default
                 <article class="post-comment">
                     {% include comments.html %}
                 </article>
-            </div>
+
         </div>
     </div>
-</div>
-</div>
 </div>
